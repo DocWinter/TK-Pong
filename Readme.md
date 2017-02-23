@@ -26,3 +26,5 @@ us a drink.
 Then we'll use HTML5/CSS3 for the frontend and maybe python and/or c++ for the
 server. The one who'll have the hand recognition system and the host of the
 game.
+
+Check the full code [here](https://github.com/lebib)!
